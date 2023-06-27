@@ -2,7 +2,6 @@
 - 👀 I’m interested in Food and Coding.
 - 🌱 I’m currently learning eating and running.
 - 💞️ I’m looking to collaborate on Game dev.
-- 📫 How to reach me : NA!
 
 <!---
 JsonHanW/JsonHanW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
