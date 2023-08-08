@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JsonHanW✨✨✨
-- 👀 I’m interested in Food and Coding.✨✨✨
+- 👀 I’m interested in Food and Coding.✨✨✨✨
 - 🌱 I’m currently learning eating and running.✨✨✨✨
 - 💞️ I’m looking to collaborate on Game dev.✨✨✨✨
 
